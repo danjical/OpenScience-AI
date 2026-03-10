@@ -17,4 +17,4 @@
   10. https://arxiv.org/abs/2603.08242
 
 ## License
-MIT License
+[MIT License](https://github.com/danjical/OpenScience-AI/blob/main/LICENSE)
