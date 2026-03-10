@@ -1,7 +1,7 @@
 # Text extraction and analysis
 
 ## Tools
-  GROBID[https://github.com/grobidOrg/grobid] (Text extraction tool from PDF)
+  [GROBID](https://github.com/kermitt2/grobid) (Text extraction tool from PDF)
 
 ## Dataset
   10 open-access papers from arXiv:
